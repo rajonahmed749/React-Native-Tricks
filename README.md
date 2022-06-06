@@ -1,6 +1,6 @@
 # React-Native-Tricks
 
-# Android Safe Area View 
+## Android Safe Area View 
     
     
 ### Write 3 line of code to enable safe area view in android devices [`Here is an example`] 
