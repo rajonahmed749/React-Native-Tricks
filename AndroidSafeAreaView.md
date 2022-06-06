@@ -1,7 +1,6 @@
-# Android Safe Area View 
+# Details of Android Safe Area View     
     
-    
-### Write 3 line of code to enable safe area view in android devices [`Here is an example`] 
+### Write 3/4 line of code to enable safe area view in android devices 
 
     import { StyleSheet, View, SafeAreaView, Platform, StatusBar } from 'react-native'
     import React from 'react'
